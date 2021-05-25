@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-Game
-Simple Tic Tac Toe game using python. Clean Game.
+Simple Tic Tac Toe game using python Game.
